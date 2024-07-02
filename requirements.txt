@@ -1,0 +1,7 @@
+pip-sync-faster==0.0.4
+coverage==7.5.4
+streamlit==1.36.0
+hugchat==0.4.8
+opencv-python==4.10.0.84
+numpy==2.0.0
+pillow==10.3.0
